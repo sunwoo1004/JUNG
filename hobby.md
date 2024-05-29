@@ -1,2 +1,2 @@
-My hobby is...  
-soccer
+my hobby is
+
