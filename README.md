@@ -5,3 +5,4 @@ Introduce
 Yes  
 Thank you  
 and you
+### 1. 취미 업데이트  
