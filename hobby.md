@@ -1,2 +1,3 @@
 My hobby is...  
-soccer
+soccer  
+piano
